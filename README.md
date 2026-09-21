@@ -1,1 +1,1 @@
-# My git Practice 
+# Stock Analysis Agent 
